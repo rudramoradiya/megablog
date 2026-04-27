@@ -5,7 +5,7 @@ import Logo from "./logo";
 import LogoutBtn from "./Header/logoutBtn";
 import SignUp  from "./signUp";
 import Login from "./Login";
-import Button from "./button";
+import Button from "./Button";
 import Input from "./input";
 import Select from "./select";
 import RTE from "./RTE";
